@@ -2,7 +2,7 @@
 
 This project focuses on predicting whether a gene and its associated enhancer form a regulatory pair. Gene-enhancer regulation plays a critical role in controlling gene expression, with significant implications for understanding cellular processes, development, and disease mechanisms. Using machine learning and deep learning techniques, this project builds models to predict the likelihood of regulation between gene-enhancer pairs based on genomic and epigenetic features.
 
-## Key Components of the Project
+## Key Highlights
 
 1. **Data Collection and Processing**
    - Compiled gene-enhancer data from publicly available genomic datasets.
